@@ -1,7 +1,3 @@
-
-> Hey, thanks for stumbling onto my profile! I’m someone who enjoys working with data and figuring things out step by step. I like reading theory, solving mathematical problems, and looking for patterns in data. I also enjoy building small projects just to learn and see what I can discover along the way.
----
-
 ## A Little About ME
 
 *  Computer Science student
