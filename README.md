@@ -1,71 +1,33 @@
-# 👋 Hi, I'm Karim
+# 👋 HELLO, I'm Karim!
 
-Welcome to my GitHub profile! I'm passionate about **software development, data analytics, and problem solving**, and I enjoy building projects that help me grow my skills and explore new technologies.
-
+> Hey, thanks for stumbling onto my profile! I’m someone who enjoys working with data and figuring things out step by step. I like reading theory, solving mathematical problems, and looking for patterns in data. I also enjoy building small projects just to learn and see what I can discover along the way.
 ---
 
-## 🚀 About Me
+## 🚀 A Little About ME
 
-* 🎓 Computer Science / Engineering student (adjust if needed)
+* 🎓 Computer Science student
 * 📊 Interested in Data Analytics and Machine Learning
 * 💻 Comfortable with Python, SQL, and Java
 * 🧠 Currently improving my problem-solving and system design skills
-* 🏋️‍♂️ Outside of tech, I enjoy fitness and staying active
+* 🏋️‍♂️ Outside of tech, I like staying fit, reading non-fiction, and building small games in Godot
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-
-* Python
-* Java
-* SQL
-* JavaScript (if applicable)
+### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+</p>
 
 **Tools & Technologies:**
 
 * Git & GitHub
 * Pandas / NumPy
-* MySQL / PostgreSQL
+* MySQL
 * Jupyter Notebook
 * VS Code
 
 ---
-
-## 📂 Projects
-
-Here are some of the things I’ve worked on:
-
-* 🔹 **Data Analysis Projects** – exploring datasets using Python and SQL
-* 🔹 **LeetCode Solutions** – improving algorithmic thinking and coding skills
-* 🔹 **Personal Projects** – building small apps and tools to learn new concepts
-
-*(You can replace this section with actual project links once you add them)*
-
----
-
-## 📈 Current Goals
-
-* Strengthen my data analytics and SQL skills
-* Build real-world projects for my portfolio
-* Land an internship in tech or data
-* Improve problem-solving consistency (LeetCode / coding challenges)
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [your-username](https://github.com/your-username)
-* LinkedIn: [Add your LinkedIn here]
-* Email: [your email]
-
----
-
-## ⚡ Fun Fact
-
-I like learning by building — I understand concepts best when I apply them in real projects.
-
----
-
-⭐ Thanks for stopping by!
