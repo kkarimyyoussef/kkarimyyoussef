@@ -1,21 +1,21 @@
-# 👋 HELLO, I'm Karim!
+# HELLO, I'm Karim!
 
 > Hey, thanks for stumbling onto my profile! I’m someone who enjoys working with data and figuring things out step by step. I like reading theory, solving mathematical problems, and looking for patterns in data. I also enjoy building small projects just to learn and see what I can discover along the way.
 ---
 
-## 🚀 A Little About ME
+## A Little About ME
 
-* 🎓 Computer Science student
-* 📊 Interested in Data Analytics and Machine Learning
-* 💻 Comfortable with Python, SQL, and Java
-* 🧠 Currently improving my problem-solving and system design skills
-* 🏋️‍♂️ Outside of tech, I like staying fit, reading non-fiction, and building small games in Godot
+*  Computer Science student
+*  Interested in Data Analytics and Machine Learning
+*  Comfortable with Python, SQL, and Java
+*  Currently improving my problem-solving and system design skills
+*  Outside of tech, I like staying fit, reading non-fiction, and building small games in Godot
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/SQL-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Technologies
+###  Tools & Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
