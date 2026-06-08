@@ -10,76 +10,56 @@
     "Software Development"
   ],
   "currently_learning": [
-    "Data Analysis",
-    "System Design",
-    "Problem Solving"
+    "Advanced SQL",
+    "Data Visualization",
+    "System Design"
   ],
   "hobbies": [
-    "Weight Lifting",
-    "Reading Non-Fiction",
-    "Building Games"
+    "Weightlifting",
+    "Reading",
+    "Game Development"
   ]
 }
 ```
 
----
+## 🛠️ Tech Stack
 
-## 🛠 Technical Skills
-
-```json
-{
-  "Languages": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "SQL"
-  ],
-
-  "Data & Analytics": [
-    "Pandas",
-    "NumPy",
-    "Jupyter Notebook"
-  ],
-
-  "Tools": [
-    "Git",
-    "GitHub",
-    "VS Code"
-  ]
-}
-```
-
-### Main Skills
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
+
+### Data Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-purple?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-red?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
 </p>
 
----
-
-## 📚 Currently Learning
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
-- Advanced SQL
-- Data Visualization
-- Machine Learning
-- System Design
+## 📚 Currently Working On
 
----
+- Building Data Analytics projects with Python and SQL
+- Strengthening Data Structures & Algorithms skills
+- Expanding Machine Learning knowledge
+- Developing personal projects and contributing to GitHub
 
-## 🚀 Goals for 2026
+## 🎯 Career Goals
 
 - Secure a Data Analytics Internship
-- Build a Portfolio of Data Projects
-- Strengthen SQL and Python Skills
-- Contribute to Open Source Projects
+- Gain industry experience working with real-world datasets
+- Develop expertise in Business Intelligence and Machine Learning
+- Continue growing as a Software Engineer and Data Professional
+```
