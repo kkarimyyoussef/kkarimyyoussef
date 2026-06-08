@@ -54,7 +54,7 @@ Outside of technology, I enjoy:
 </a>
 
 <a href="www.linkedin.com/in/kkarimyoussef">
-<img src="https://github.com/kkarimyyoussef" />
+<img src="https://github.com/kkarimyyousseff" />
 </a>
 </p>
 
