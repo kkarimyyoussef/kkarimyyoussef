@@ -45,25 +45,4 @@ Outside of technology, I enjoy:
 
 ---
 
-
-## Connect With Me
-
-<p align="left">
-<a href="https://github.com/yourusername">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="www.linkedin.com/in/kkarimyoussef">
-<img src="https://github.com/kkarimyyousseff" />
-</a>
-</p>
-
----
-
-## Resume
-
-📄 Download my resume
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A497A8&height=120&section=footer"/>
