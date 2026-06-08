@@ -6,50 +6,6 @@
 
 <div align="left">
 
-```json
-{
-  "type": "student profile",
-  "categories": [
-    {
-      "name": "Focus Areas",
-      "items": [
-        "Data Analytics",
-        "Machine Learning",
-        "Software Development"
-      ]
-    },
-
-    {
-      "name": "Languages",
-      "items": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "SQL"
-      ]
-    },
-
-    {
-      "name": "Data Tools",
-      "items": [
-        "Pandas",
-        "NumPy",
-        "Jupyter Notebook"
-      ]
-    },
-
-    {
-      "name": "Development Tools",
-      "items": [
-        "Git",
-        "GitHub",
-        "VS Code"
-      ]
-    }
-  ]
-}
-```
-
 </div>
 
 ## Main Skills
