@@ -8,6 +8,19 @@
 
 </div>
 
+## About Me
+
+I am a Computer Science student with a growing interest in Data Analytics and Machine Learning.
+
+Outside of technology, I enjoy:
+
+* Fitness & weight lifting
+* Reading non-fiction
+* Building small games
+* Learning new technologies
+
+---
+
 ## Main Skills
 
 <p align="left">
@@ -32,40 +45,6 @@
 
 ---
 
-## Projects
-
-### Java Projects
-
-* Object-Oriented Programming Projects
-* Desktop Applications
-* Game Development Experiments
-
-### Data Analytics Projects
-
-* SQL Data Exploration
-* Pandas Data Cleaning
-* Dashboard & Visualization Projects
-
-### Current Focus
-
-* Building a strong analytics portfolio
-* Improving problem solving skills
-* Preparing for internship opportunities
-
----
-
-## About Me
-
-I am a Computer Science student with a growing interest in Data Analytics and Machine Learning.
-
-Outside of technology, I enjoy:
-
-* Fitness & weight lifting
-* Reading non-fiction
-* Building small games
-* Learning new technologies
-
----
 
 ## Connect With Me
 
