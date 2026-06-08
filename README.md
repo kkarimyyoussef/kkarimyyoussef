@@ -1,65 +1,134 @@
-## 👨‍💻 About Me
+<!-- TOP WAVE -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A497A8&height=120&section=header"/>
+
+# Computer Science
+
+<div align="left">
 
 ```json
 {
-  "name": "Karim Youssef",
-  "education": "Computer Science Student",
-  "interests": [
-    "Data Analytics",
-    "Machine Learning",
-    "Software Development"
-  ],
-  "currently_learning": [
-    "Advanced SQL",
-    "Data Visualization",
-    "System Design"
-  ],
-  "hobbies": [
-    "Weightlifting",
-    "Reading",
-    "Game Development"
+  "type": "student profile",
+  "categories": [
+    {
+      "name": "Focus Areas",
+      "items": [
+        "Data Analytics",
+        "Machine Learning",
+        "Software Development"
+      ]
+    },
+
+    {
+      "name": "Languages",
+      "items": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL"
+      ]
+    },
+
+    {
+      "name": "Data Tools",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "Jupyter Notebook"
+      ]
+    },
+
+    {
+      "name": "Development Tools",
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code"
+      ]
+    }
   ]
 }
 ```
 
-## 🛠️ Tech Stack
+</div>
 
-### Languages
+## Main Skills
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,vscode" />
 </p>
 
-### Data Analytics
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
 </p>
 
-### Tools
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+## Studying
+
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Analytics-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Learning-orange?style=for-the-badge"/>
 </p>
 
-## 📚 Currently Working On
+---
 
-- Building Data Analytics projects with Python and SQL
-- Strengthening Data Structures & Algorithms skills
-- Expanding Machine Learning knowledge
-- Developing personal projects and contributing to GitHub
+## Projects
 
-## 🎯 Career Goals
+### Java Projects
 
-- Secure a Data Analytics Internship
-- Gain industry experience working with real-world datasets
-- Develop expertise in Business Intelligence and Machine Learning
-- Continue growing as a Software Engineer and Data Professional
-```
+* Object-Oriented Programming Projects
+* Desktop Applications
+* Game Development Experiments
+
+### Data Analytics Projects
+
+* SQL Data Exploration
+* Pandas Data Cleaning
+* Dashboard & Visualization Projects
+
+### Current Focus
+
+* Building a strong analytics portfolio
+* Improving problem solving skills
+* Preparing for internship opportunities
+
+---
+
+## About Me
+
+I am a Computer Science student with a growing interest in Data Analytics and Machine Learning.
+
+Outside of technology, I enjoy:
+
+* Fitness & weight lifting
+* Reading non-fiction
+* Building small games
+* Learning new technologies
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/yourlinkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+## Resume
+
+📄 Download my resume
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A497A8&height=120&section=footer"/>
