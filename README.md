@@ -53,8 +53,8 @@ Outside of technology, I enjoy:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="www.linkedin.com/in/kkarimyoussef">
+<img src="https://github.com/kkarimyyoussef" />
 </a>
 </p>
 
