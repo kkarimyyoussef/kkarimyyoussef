@@ -16,8 +16,7 @@ Outside of technology, I enjoy:
 
 * Fitness & weight lifting
 * Reading non-fiction
-* Building small games
-* Learning new technologies
+* Building LEGOs
 
 ---
 
