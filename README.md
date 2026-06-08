@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A497A8&height=120&section=header"/>
 
-# Computer Science
+# Data Analytics / Machine Learning
 
 <div align="left">
 
