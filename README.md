@@ -1,6 +1,3 @@
-I used Karim’s resume details and the uploaded README style requirements.  
-
-````markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A855F7&height=140&section=header"/>
 
 <div align="center">
@@ -382,4 +379,3 @@ Open To:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A855F7&height=140&section=footer"/>
-````
