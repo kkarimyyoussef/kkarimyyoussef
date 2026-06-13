@@ -4,7 +4,7 @@
 
 # Karim Youssef
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Data+Analytics+%7C+Machine+Learning;Software+Development+%7C+Product+Engineering;Building+Data-Driven+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Data+Analytics+%7C+Machine+Learning;Software+Development;Building+Data-Driven+Technology" alt="Typing SVG" />
 
 <br>
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/kkarimyoussef">
   <img src="https://img.shields.io/badge/LinkedIn-Karim%20Youssef-6D28D9?style=flat-square"/>
 </a>
-<a href="mailto:karimmodae@gmail.com">
+<a href="mailto:kkarimyyoussef@gmail.com">
   <img src="https://img.shields.io/badge/Email-karimmodae%40gmail.com-A855F7?style=flat-square"/>
 </a>
 <a href="https://github.com/kkarimyyoussef">
