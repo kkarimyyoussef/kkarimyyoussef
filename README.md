@@ -122,14 +122,6 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 
 <br>
 
-**SQL Basic Certificate**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-Basic%20Certificate-4C1D95?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
-
 ### Data Analytics Certifications
 
 - **SQL Basic Certificate**  
