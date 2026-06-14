@@ -122,25 +122,19 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 
 <br>
 
+**SQL Basic Certificate**
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-Basic%20Certificate-4C1D95?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
 ### Data Analytics Certifications
 
 - **SQL Basic Certificate**  
   Demonstrated foundational knowledge of SQL, including querying databases, filtering data, sorting results, using joins, and working with aggregate functions.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkarimyyoussef&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kkarimyyoussef&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=E5E7EB"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkarimyyoussef&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB"/>
-
-</div>
-
+  
 ---
 
 ## Contribution Activity
