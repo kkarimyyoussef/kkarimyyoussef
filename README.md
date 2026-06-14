@@ -15,15 +15,19 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/London%2C%20Ontario-Location-312E81?style=flat-square"/>
+
 <a href="https://github.com/kkarimyyoussef">
   <img src="https://img.shields.io/badge/Portfolio-GitHub-4C1D95?style=flat-square"/>
 </a>
+
 <a href="https://linkedin.com/in/kkarimyoussef">
   <img src="https://img.shields.io/badge/LinkedIn-Karim%20Youssef-6D28D9?style=flat-square"/>
 </a>
+
 <a href="mailto:kkarimyyoussef@gmail.com">
-  <img src="https://img.shields.io/badge/Email-karimmodae%40gmail.com-A855F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Email-kkarimyyoussef%40gmail.com-A855F7?style=flat-square"/>
 </a>
+
 <a href="https://github.com/kkarimyyoussef">
   <img src="https://img.shields.io/badge/GitHub-kkarimyyoussef-111827?style=flat-square"/>
 </a>
@@ -59,32 +63,32 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,cs,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cs,sql" />
 </p>
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/Databricks%20SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database%20Design-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6D28D9?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Databricks%20SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database%20Design-4C1D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-6D28D9?style=for-the-badge"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-1F2937?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-1F2937?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
@@ -92,19 +96,36 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 ## Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## Certifications
+
+<div align="center">
+
+<a href="[PASTE-YOUR-CERTIFICATE-LINK-HERE](https://www.hackerrank.com/certificates/iframe/783fea90f6b2)">
+  <img src="https://img.shields.io/badge/SQL-Basic%20Certificate-4C1D95?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+</div>
+
+### Data Analytics Certifications
+
+- **SQL Basic Certificate**  
+  Demonstrated foundational knowledge of SQL, including querying databases, filtering data, sorting results, using joins, and working with aggregate functions.
 
 ---
 
@@ -119,6 +140,7 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkarimyyoussef&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB"/>
 
 </div>
+
 ---
 
 ## Contribution Activity
@@ -157,7 +179,7 @@ Open To:
   - Software development internships
   - Machine learning projects
   - Technical collaboration
-```
+````
 
 ---
 
@@ -168,3 +190,4 @@ Open To:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A855F7&height=140&section=footer"/>
+```
