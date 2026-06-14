@@ -116,15 +116,15 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 
 <div align="center">
 
-<a href="certificates/sql_basic certificate.pdf" target="_blank">
-  <img src="certificates/sql_basic certificate.png" alt="SQL Basic Certificate" width="260"/>
+<a href="certificates/sql-basic-certificate.pdf" target="_blank">
+  <img src="certificates/sql-basic-certificate.png" alt="SQL Basic Certificate" width="260"/>
 </a>
 
 <br>
 
 **SQL Basic Certificate**
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/SQL-Basic%20Certificate-4C1D95?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -134,8 +134,8 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 
 - **SQL Basic Certificate**  
   Demonstrated foundational knowledge of SQL, including querying databases, filtering data, sorting results, using joins, and working with aggregate functions.
-```
 
+---
 
 ## GitHub Analytics
 
