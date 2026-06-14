@@ -116,8 +116,8 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 
 <div align="center">
 
-<a href="certificates/sql-basic-certificate.pdf" target="_blank">
-  <img src="certificates/sql-basic-certificate.png" alt="SQL Basic Certificate" width="260"/>
+<a href="certificates/sql_basic certificate.pdf" target="_blank">
+  <img src="certificates/sql_basic certificate.png" alt="SQL Basic Certificate" width="260"/>
 </a>
 
 <br>
