@@ -42,19 +42,13 @@
 
 ---
 
-## About Me
+## Learn Who I am
 
-I am a Computer Science student at Western University with a minor in Data Science and a growing focus on Data Analytics, Machine Learning, and software development.
+CS @ UWO
 
-I have experience working with Python, SQL, Java, JavaScript, C#, Pandas, NumPy, Tableau, Power BI, Git/GitHub, and database systems. My background includes software development, web development, teaching programming, and designing beginner-friendly technical learning experiences.
+I like to code in Python, Java, & SQL. Secretly learning Rust. My background includes software development, web development, and teaching programming.
 
-Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, and building LEGOs.
-
-### Open To
-
-<img src="https://img.shields.io/badge/Data%20Analytics-Internships-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Projects-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Development-Internships-4C1D95?style=for-the-badge"/>
+Outside of tech, I like to work out, play basketball, and build LEGO.
 
 ---
 
@@ -112,31 +106,6 @@ Outside of technology, I enjoy fitness and weight lifting, reading non-fiction, 
 
 ---
 
-## Certifications
-
-<div align="center">
-
-<a href="certificates/sql-basic-certificate.pdf" target="_blank">
-  <img src="certificates/sql-basic-certificate.png" alt="SQL Basic Certificate" width="260"/>
-</a>
-
-<br>
-
-**SQL Basic Certificate**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-Basic%20Certificate-4C1D95?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
-
-### Data Analytics Certifications
-
-- **SQL Basic Certificate**  
-  Demonstrated foundational knowledge of SQL, including querying databases, filtering data, sorting results, using joins, and working with aggregate functions.
-  
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -179,7 +148,7 @@ Open To:
 
 <div align="center">
 
-**Building data-driven software with clarity, curiosity, and engineering discipline.**
+**Sometimes I code for fun**
 
 </div>
 
