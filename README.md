@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/Email-kkarimyyoussef%40gmail.com-A855F7?style=flat-square"/>
 </a>
 
-<a href="https://github.com/kkarimyyoussef">
-  <img src="https://img.shields.io/badge/GitHub-kkarimyyoussef-111827?style=flat-square"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=kkarimyyoussef&style=flat-square&color=6D28D9"/>
