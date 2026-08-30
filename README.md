@@ -16,10 +16,6 @@
 
 <img src="https://img.shields.io/badge/London%2C%20Ontario-Location-312E81?style=flat-square"/>
 
-<a href="https://github.com/kkarimyyoussef">
-  <img src="https://img.shields.io/badge/Portfolio-GitHub-4C1D95?style=flat-square"/>
-</a>
-
 <a href="https://linkedin.com/in/kkarimyoussef">
   <img src="https://img.shields.io/badge/LinkedIn-Karim%20Youssef-6D28D9?style=flat-square"/>
 </a>
