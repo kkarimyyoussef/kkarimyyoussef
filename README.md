@@ -2,6 +2,7 @@
 
 <div align="center">
 
+
 # Karim Youssef
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Data+Analytics+%7C+Machine+Learning;Software+Development;Building+Data-Driven+Technology" alt="Typing SVG" />
