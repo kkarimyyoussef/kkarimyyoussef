@@ -39,7 +39,7 @@
 
 CS @ UWO
 
-I like to code in Python, Java, & SQL. Secretly learning Rust. My background includes software development, web development, and teaching programming.
+I like to code in Python, Java, & SQL. Learning Rust. My background includes software development, web development, and teaching programming.
 
 Outside of tech, I like to work out, play basketball, and build LEGO.
 
@@ -127,14 +127,7 @@ Building:
 Exploring:
   - Product engineering
   - Full stack development
-  - Business intelligence
   - AI-powered applications
-
-Open To:
-  - Data analytics internships
-  - Software development internships
-  - Machine learning projects
-  - Technical collaboration
 ````
 
 ---
