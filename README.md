@@ -99,16 +99,6 @@ Outside of tech, I like to work out, play basketball, and build LEGO.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkarimyyoussef&bg_color=0D1117&color=E5E7EB&line=A855F7&point=8B5CF6&area=true&hide_border=true"/>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
